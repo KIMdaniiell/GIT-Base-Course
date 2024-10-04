@@ -11,3 +11,8 @@
 8. Копирование коммитов
 9. Перемещение коммитов
 10. Отмена коммитов через Revert
+
+## Используемые материалы:
++ [JavaScript.ru: Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
++ [JavaScript.ru: Git: разное](https://www.youtube.com/playlist?list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE)
++ [ADV-IT: Основы Git, GitHub и GitHub Actions](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
