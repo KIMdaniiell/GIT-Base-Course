@@ -16,3 +16,5 @@
 + [JavaScript.ru: Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 + [JavaScript.ru: Git: разное](https://www.youtube.com/playlist?list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE)
 + [ADV-IT: Основы Git, GitHub и GitHub Actions](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
++ [@tashbenbetov: Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/companies/yandex/articles/431432/)
++ [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
