@@ -18,3 +18,4 @@
 + [ADV-IT: Основы Git, GitHub и GitHub Actions](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
 + [@tashbenbetov: Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/companies/yandex/articles/431432/)
 + [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
++ [Skillbox Media: Основные команды для работы с Git и GitHub](https://skillbox.ru/media/code/osnovnye-komandy-dlya-raboty-s-git-i-github/#stk-7)
